@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+A Full-Stack Software Engineer with a wealth of experience from my previous career in the service industry as well as an ever-expanding set of tools to help accomplish whatever tasks come my way.
+
+While versed in HTML, CSS, Javascript, React, Node, and PostgreSQL, I'm continually expanding my knowledge base. Lately, I've been spending my time exploring Python, React-Native, and cloud-based services such as AWS Amplify and Google Firebase.
+
+From my service industry experience, I've learned to work with a variety of team sizes, coworkers with varying personalities and backgrounds, and thrive in a customer-facing environment.
+
+
+![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=Real-Arthur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Arthur)](https://github.com/Real-Arthur/github-readme-stats)
 <!--
 **Real-Arthur/Real-Arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
