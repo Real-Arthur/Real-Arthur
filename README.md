@@ -1,6 +1,6 @@
-### Hi there 👋
+###### Pronouns He/Him
 
-## I'm currently refining my Node.js skills alongside PostgreSQL
+### I'm currently refining my Node.js skills alongside PostgreSQL
 
 A Full-Stack Software Engineer with a wealth of experience from my previous career in the service industry as well as an ever-expanding set of tools to help accomplish whatever tasks come my way.
 
